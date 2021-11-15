@@ -94,3 +94,97 @@
 [2021-11-15T08:52:43.266] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-10","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636473600000}}
 [2021-11-15T08:52:43.338] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-13","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636732800000}}
 [2021-11-15T08:52:43.338] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-13","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636732800000}}
+[2021-11-15T18:31:57.659] [INFO] API - Listen api port 3010
+[2021-11-15T18:31:58.444] [TRACE] USAGE - Start usage service
+[2021-11-15T18:31:58.642] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"WKS","actual":186,"target":10,"status":1,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:31:58.643] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"WKS","actual":186,"target":10,"status":1,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:31:58.655] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"F230","actual":1,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:31:58.656] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"F230","actual":1,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:32:36.380] [INFO] API - Listen api port 3010
+[2021-11-15T18:32:37.179] [TRACE] USAGE - Start usage service
+[2021-11-15T18:32:37.368] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"F230","actual":1,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:32:37.368] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"F230","actual":1,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:32:37.370] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"WKS","actual":186,"target":10,"status":1,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:32:37.370] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"WKS","actual":186,"target":10,"status":1,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:32:40.003] [TRACE] USAGE - Start usage service
+[2021-11-15T18:32:40.145] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:32:40.146] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:32:40.147] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:32:40.148] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:32:45.001] [TRACE] USAGE - Start usage service
+[2021-11-15T18:32:45.141] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:32:45.142] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:32:45.160] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:32:45.160] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:38.454] [INFO] API - Listen api port 3010
+[2021-11-15T18:40:39.247] [TRACE] USAGE - Start usage service
+[2021-11-15T18:40:39.482] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"F230","actual":1,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:40:39.483] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"F230","actual":1,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:40:39.484] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"WKS","actual":186,"target":10,"status":1,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:40:39.485] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"WKS","actual":186,"target":10,"status":1,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:40:40.003] [TRACE] USAGE - Start usage service
+[2021-11-15T18:40:40.155] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:40.167] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:40.181] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:40.182] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:45.001] [TRACE] USAGE - Start usage service
+[2021-11-15T18:40:45.157] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:45.157] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:45.164] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:45.165] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:50.003] [TRACE] USAGE - Start usage service
+[2021-11-15T18:40:50.158] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:50.159] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:50.164] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:50.165] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:55.001] [TRACE] USAGE - Start usage service
+[2021-11-15T18:40:55.131] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:55.133] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:55.140] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:40:55.141] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:00.005] [TRACE] USAGE - Start usage service
+[2021-11-15T18:41:00.141] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:00.142] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:00.198] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:00.198] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:05.002] [TRACE] USAGE - Start usage service
+[2021-11-15T18:41:05.143] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:05.144] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:05.172] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:05.172] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:10.002] [TRACE] USAGE - Start usage service
+[2021-11-15T18:41:10.165] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:10.166] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:10.197] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:10.197] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:15.003] [TRACE] USAGE - Start usage service
+[2021-11-15T18:41:15.144] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:15.145] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:15.176] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:15.176] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:20.000] [TRACE] USAGE - Start usage service
+[2021-11-15T18:41:20.134] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:20.135] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:20.140] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:20.141] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:36.794] [INFO] API - Listen api port 3010
+[2021-11-15T18:41:37.534] [TRACE] USAGE - Start usage service
+[2021-11-15T18:41:37.699] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"WKS","actual":186,"target":10,"status":1,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:41:37.700] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"WKS","actual":186,"target":10,"status":1,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:41:37.701] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"F230","actual":1,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:41:37.701] [DEBUG] APP - {"error":null,"result":{"datadate":"1970-01-01","systemid":"FEM","plant":"F230","actual":1,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1}}
+[2021-11-15T18:41:40.003] [TRACE] USAGE - Start usage service
+[2021-11-15T18:41:40.155] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:40.156] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:40.163] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:40.164] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:45.002] [TRACE] USAGE - Start usage service
+[2021-11-15T18:41:45.165] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:45.166] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:45.173] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:45.174] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:50.002] [TRACE] USAGE - Start usage service
+[2021-11-15T18:41:50.148] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:50.149] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"F230","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:50.157] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}
+[2021-11-15T18:41:50.157] [DEBUG] APP - {"error":null,"result":{"datadate":"2021-11-14","systemid":"FEM","plant":"WKS","actual":0,"target":10,"status":0,"cmpunitdesc":"使用次數","uploadtime":1636819200000}}

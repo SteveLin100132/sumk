@@ -1,6 +1,6 @@
 {
   "name": "wistroni40-sumk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wistron I4.0 SUMK platform: usage publish job template",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

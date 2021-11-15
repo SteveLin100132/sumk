@@ -32,7 +32,6 @@ export class UsageService extends UsageTemplate implements CustomUsage {
       systemId: 'SYSTEM_ID',
       plant: ['PLANT_CODE'],
       unit: 'USAGE_UNIT',
-      cron: '0 0 1 * * *',
       publishedApi: 'http://usage.publish.port/',
     });
   }

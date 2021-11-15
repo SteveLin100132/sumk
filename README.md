@@ -73,7 +73,6 @@ export class UsageService extends UsageTemplate {
       systemId: 'SYSTEM_ID',
       plant: ['PLANT_CODE'],
       unit: 'USAGE_UNIT',
-      cron: '0 0 1 * * *',
       publishedApi: 'http://usage.publish.port/',
     });
   }
@@ -93,7 +92,6 @@ UsageConfig
 | systemId     | string                  | 該系統的系統 ID                                                                             |
 | plant        | string[]                | 該系統 Rollout 的廠別                                                                       |
 | unit         | string                  | 使用率統計單位                                                                              |
-| cron         | string                  | 上拋使用率的排程時間設定                                                                    |
 | publishedApi | string                  | 使用率數據上拋端口                                                                          |
 | port         | string                  | 使用率上拋服務底層 API 端口                                                                 |
 
@@ -194,7 +192,6 @@ export class UsageService extends UsageTemplate implements CustomUsage {
       systemId: 'SYSTEM_ID',
       plant: ['PLANT_CODE'],
       unit: 'USAGE_UNIT',
-      cron: '0 0 1 * * *',
       publishedApi: 'http://usage.publish.port/',
     });
   }

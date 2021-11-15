@@ -278,7 +278,7 @@ export abstract class UsageTemplate
     start = start || this._timeUtil.getYesterday();
     end = end || this._timeUtil.getToday();
     this.consume(start, end, plant);
-    return this._payload.asObservable();
+    return this._payload;
   }
 
   /**
@@ -291,6 +291,6 @@ export abstract class UsageTemplate
   public setSchedule(cron: string): Observable<UsageResponse> {
     this._cron = cron;
     schedule.scheduleJob(this._cron, () => this.execute());
-    return this._payload.asObservable();
+    return this._payload;
   }
 }
