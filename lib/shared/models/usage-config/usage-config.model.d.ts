@@ -37,10 +37,6 @@ export interface UsageConfig {
      */
     unit: string;
     /**
-     * 使用率排程設定
-     */
-    cron: string;
-    /**
      * 使用率上拋端口
      */
     publishedApi: string;
