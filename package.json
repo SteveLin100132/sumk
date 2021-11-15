@@ -1,0 +1,70 @@
+{
+  "name": "wistroni40-sumk",
+  "version": "1.0.0",
+  "description": "Wistron I4.0 SUMK platform: usage publish job template",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveLin100132/wistroni40-sumk.git"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "husky:set": "./node_modules/.bin/husky set ",
+    "eslint": "./node_modules/.bin/eslint --ignore-path .eslintignore ./src/**",
+    "eslint:fix": "./node_modules/.bin/eslint ./src/** --fix",
+    "test": "nyc --reporter=lcov mocha --require ts-node/register ./src/test/**/*.ts",
+    "start": "npm run build:live",
+    "start:file": "npm run build:file",
+    "ts": "nodemon --exec ./node_modules/.bin/ts-node -- ",
+    "build:live": "nodemon --exec ./node_modules/.bin/ts-node -- ./src/index.ts",
+    "build:file": "nodemon --exec ./node_modules/.bin/ts-node --",
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Steve Y Lin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/elasticsearch": "^5.0.39",
+    "@types/express": "^4.17.13",
+    "@types/mocha": "^8.2.0",
+    "@types/node": "^14.14.22",
+    "@types/node-schedule": "^1.3.2",
+    "@types/sinon": "^9.0.10",
+    "@types/swagger-ui-express": "^4.1.3",
+    "@typescript-eslint/eslint-plugin": "^4.14.0",
+    "@typescript-eslint/parser": "^4.14.0",
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-eslint-plugin": "^2.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-mocha": "^8.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "husky": "^7.0.4",
+    "mocha": "^8.3.2",
+    "nodemon": "^2.0.7",
+    "nyc": "^15.1.0",
+    "prettier": "^2.2.1",
+    "should": "^13.2.3",
+    "sinon": "^9.2.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dayjs": "^1.10.7",
+    "elastic-builder": "^2.16.0",
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1",
+    "node-schedule": "^2.0.0",
+    "rxjs": "^6.6.7",
+    "swagger-ui-express": "^4.1.6",
+    "wistroni40-backend-utility": "^1.0.6",
+    "wistroni40-dynamic-class": "^1.0.1",
+    "wistroni40-retry": "0.0.4"
+  }
+}
